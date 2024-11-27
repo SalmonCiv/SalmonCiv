@@ -1,0 +1,114 @@
+{
+    "images":
+    {
+        "edition":
+        {
+            "image" : "modpack:banner.png",
+            "posX" : -200,
+            "posY" : -50,
+            "width" : 128,
+            "height" : 955,
+            "alignment" : "top_center"
+        },
+
+	"title":
+        {
+            "image" : "modpack:minecraft.png",
+            "posX" : -185,
+            "posY" : 25,
+            "width" : 95,
+            "height" : 21,
+            "alignment" : "top_center"
+        },
+
+	"age":
+        {
+            "image" : "modpack:Primal.png",
+            "posX" : -165,
+            "posY" : 180,
+            "width" : 55,
+            "height" :21,
+            "alignment" : "top_center"
+        }
+
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "texture" : "menu:button.png",
+            "posX" : -185,
+            "posY" : -10,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "texture" : "menu:button.png",
+            "posX" : -185,
+            "posY" : 20,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "texture" : "menu:button.png",
+            "posX" : -185,
+            "posY" : 50,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "texture" : "menu:button.png",
+            "posX" : -185,
+            "posY" : 80,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+        
+    },
+    
+    "other":
+    {
+
+        
+	"background":
+	{
+	   "image" : "",
+	   "slideshow":
+	   {
+		"images" : ["modpack:Civ0.png"],     
+   		"displayDuration" : 100,
+		"displayDuration" : 40
+	   }
+	}
+    }
+}
