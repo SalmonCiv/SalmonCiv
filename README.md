@@ -2,6 +2,7 @@ what needs to get done for merge 0.1.2
 
 # Recipes - Skink
 ~~- [] add campfire recipe for cooked chicken soup (Fossils and Archaeology)~~
+
 ~~- [] add ceramic bucket recipe for raw chicken soup (Fossils and Archeology)~~
 - [] MaterialTweaker armor values
 
