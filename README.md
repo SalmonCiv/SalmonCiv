@@ -9,7 +9,9 @@ what needs to get done for merge 0.1.2
 # Mechanics - Salmon
 - [S] create world map (World Painter)
 - [S] adjust armor values (Tink. Constuct)
-- [S] Event system tellraw provider
+- [S] Event system tellraw provider\
+
+- [] Stage Glove
 
 # Quests - Qaaza
 - [] Crafting Table craft chain (note that ghost leather is also a mob drop)
